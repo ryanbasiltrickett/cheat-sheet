@@ -11,12 +11,8 @@
             "id": "e4331e396b9eb82f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/Cognito.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Cognito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Cognito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,17 +126,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS/Cognito.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "1d1ad78155adb486",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,31 +157,40 @@
   },
   "active": "e4331e396b9eb82f",
   "lastOpenFiles": [
-    "AWS/CloudFormation.md",
+    "Kubernetes/Kubernetes Ingress.md",
+    "Kubernetes/Kubernetes Deployments.md",
+    "AWS/API Gateway.md",
+    "Software Development Concepts/12 Factor Applications.md",
+    "Software Development Concepts/Well-Architected Applications.md",
+    "Kubernetes/Kubernetes Overview.md",
+    "Firebase/Firebase Emulator.md",
+    "Kubernetes/Persistence Volumes.md",
+    "Kubernetes/ArgoCD.md",
+    "Firebase/Firebase Cloud Firestore.md",
+    "Kubernetes/ConfigMaps and Secrets.md",
+    "Firebase/Firebase Cloud Functions.md",
+    "Firebase/Firebase CLI.md",
+    "AWS/Kinesis/Kinesis Streams.md",
+    "AWS/Kinesis/Kinesis Data Analytics.md",
+    "AWS/Kinesis/Kinesis Firehouse.md",
+    "AWS/AWS Tools/CloudWatch.md",
+    "AWS/AWS Tools/X-Ray.md",
+    "AWS/AWS Cloud Storage/EBS.md",
+    "AWS/AWS Databases/RDS.md",
+    "AWS/AWS Databases/DynamoDB.md",
+    "AWS/AWS Cloud Storage/EFS.md",
+    "AWS/AWS Cloud Storage/S3.md",
     "AWS/Cognito.md",
+    "AWS/CloudFormation.md",
     "AWS/Elastic Beanstalk",
     "AWS/SES.md",
-    "AWS/SNS.md",
     "AWS/Kinesis",
-    "AWS/SQS.md",
     "AWS/AWS Tools",
-    "Software Development Concepts/12 Factor Applications.md",
     "AWS/AWS Databases",
-    "Software Development Concepts/Well-Architected Applications.md",
-    "AWS/ECS.md",
-    "AWS/EKS.md",
-    "Firebase/Firebase Emulator.md",
-    "Firebase/Firebase Cloud Functions.md",
-    "Firebase/Firebase Cloud Firestore.md",
-    "Firebase/Firebase CLI.md",
-    "Kubernetes/ArgoCD.md",
-    "Kubernetes/Kubernetes Architecture.md",
-    "AWS/EC2.md",
     "AWS/AWS Cloud Storage",
     "AWS/IAM",
     "AWS/Lambda",
     "AWS/EC2",
-    "AWS/Lambda.md",
     "AWS",
     "Software Development Concepts"
   ]

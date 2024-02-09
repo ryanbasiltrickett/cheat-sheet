@@ -16,7 +16,7 @@ ___
 ## Commands
 
 ### Test Functions Locally
-Start and run functions endpoint with **Firebase Emulatore ([[Firebase Emulator]])**
+Start and run functions endpoint with **Firebase Emulator ([[Firebase Emulator]])**
 ```bash
 firebase emulators:start
 ```
@@ -27,7 +27,7 @@ Deploy **All** functions to Firebase to use them from firebase endpoint
 firebase deploy --only functions
 ```
 
-Deploy a **specififc** function to Firebase to use from firebase endpoint
+Deploy a **specific** function to Firebase to use from firebase endpoint
 ```bash
 firebase deploy --only functions:functionName
 ```
