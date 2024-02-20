@@ -4,7 +4,6 @@ Documentation: [Firebase CLI Reference](https://firebase.google.com/docs/cli#set
 ___
 
 ## Installation
-
 ### On Windows, Linux or macOS
 Install Firebase CLI with **Node Package Manager**
 ```bash
@@ -19,9 +18,8 @@ firebase login
 ___
 
 ## Commands
-
 ### Deploy to Firebase
-Deploy **All** changes to Firebase to use them from firebase endpoint
+Deploy all changes to Firebase to use them from firebase endpoint
 ```bash
 firebase deploy
 ```

@@ -2,10 +2,11 @@ Security Groups (SGs) in AWS are virtual firewalls that control inbound and outb
 
 Documentation: [Security Group Reference](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html)
 ___
-### AWS Resources which use Security Groups
+### Overview
+#### AWS Resources which use Security Groups
 - Relational Database Service ([[RDS]])
 - Redshift Clusters
 - Elastic Load Balancer ([[ELB]])
-- Elastic Cloud Compute ([[EC2]])
+- Elastic Cloud Compute ([[EC2 Instances]])
 
 ____

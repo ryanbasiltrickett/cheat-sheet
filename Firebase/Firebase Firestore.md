@@ -3,7 +3,6 @@
 Documentation: [Firebase Firestore Reference](https://firebase.google.com/docs/firestore)
 ___
 ## Installation
-
 ### On Windows, Linux and macOS
 Install Firestore SDK with **Node Package Manager**
 ```bash
@@ -16,7 +15,6 @@ firebase init firestore
 ```
 
 ___
-
 ## Commands
 
 ### Test Firestore Locally
@@ -26,9 +24,7 @@ firebase emulators:start
 ```
 
 ___
-
 ## Initialize Cloud Firestore
-
 ### Initialize Cloud Firestore
 Add Firestore to the application to use the integrated features
 ```javascript
@@ -38,7 +34,6 @@ import { getFirestore } from "firebase/firestore";
 // Initialize Cloud Firestore and get a reference to the service  
 const db = getFirestore(app);
 ```
-
 ### Add Data
 Add data to a collection within Firestore, with an auto generated document ID
 ```javascript
@@ -69,7 +64,6 @@ db.collection("collectionName").doc("documentID").set({
 	console.error("Error writing document: ", error);  
 });
 ```
-
 ### Read Data
 Read data from a collection within Firestore
 ```javascript

@@ -13,21 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/Cognito.md",
+                "file": "AWS/AWS Containerization/ECR.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6d0c63516214e077",
+            "id": "a75b17c2b0c0f07a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS Containerization/ECR.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/Cognito.md",
+                "file": "AWS/AWS Containerization/ECR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/Cognito.md",
+                "file": "AWS/AWS Containerization/ECR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/Cognito.md"
+                "file": "AWS/AWS Containerization/ECR.md"
               }
             }
           },
@@ -171,35 +176,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c70da8c16c3c800",
+  "active": "a75b17c2b0c0f07a",
   "lastOpenFiles": [
-    "AWS/CloudFormation.md",
-    "AWS/API Gateway.md",
-    "AWS/EC2.md",
-    "AWS/Cognito.md",
-    "AWS/AWS Networking/ELB.md",
-    "AWS/AWS Networking/AWS Direct Connect.md",
+    "AWS/AWS Containerization/ECS.md",
+    "AWS/AWS Containerization/Fargate.md",
+    "AWS/AWS Containerization/ECR.md",
+    "Software Development Concepts/12 Factor Applications.md",
+    "AWS/AWS Cloud Storage/S3.md",
+    "AWS/AWS Containerization",
+    "AWS/AWS Networking/ACL.md",
     "AWS/AWS Networking/Security Groups.md",
     "AWS/AWS Networking/VPC.md",
-    "AWS/AWS Networking/ACL.md",
+    "AWS/AWS Networking/ELB.md",
+    "AWS/AWS Cloud Storage/EFS.md",
+    "AWS/AWS Cloud Storage/EBS.md",
+    "AWS/AWS Networking/AWS Direct Connect.md",
+    "Firebase/Firebase Firestore.md",
+    "Firebase/Firebase Functions.md",
     "Firebase/Firebase Emulator.md",
-    "AWS/AWS Networking/Internet Gateway.md",
-    "AWS/AWS Networking",
-    "().md",
-    "AWS/Lambda.md",
-    "Interesting Tools/Interesting DevOps Tools.md",
-    "Software Development Concepts/Well-Architected Applications.md",
-    "Software Development Concepts/12 Factor Applications.md",
-    "Kubernetes/Persistence Volumes.md",
-    "Kubernetes/Kubernetes Overview.md",
-    "Kubernetes/Kubernetes Ingress.md",
-    "Kubernetes/Kubernetes Deployments.md",
-    "Kubernetes/ConfigMaps and Secrets.md",
-    "Kubernetes/ArgoCD.md",
-    "AWS/ECS.md",
-    "AWS/EKS.md",
-    "AWS/SNS.md",
+    "Firebase/Firebase CLI.md",
+    "AWS/AWS Tools/X-Ray.md",
+    "AWS/AWS Tools/CloudWatch.md",
     "AWS/SQS.md",
+    "AWS/SNS.md",
+    "AWS/SES.md",
+    "AWS/Lambda.md",
+    "AWS/AWS Containerization/EKS.md",
+    "AWS/EC2 Instances.md",
+    "AWS/AWS Databases/DocumentDB.md",
+    "AWS/AWS Databases/DynamoDB.md",
+    "AWS/AWS Networking",
     "Interesting Tools/DevOps",
     "Interesting Tools",
     "AWS/Elastic Beanstalk",
@@ -207,7 +213,6 @@
     "AWS/AWS Tools",
     "AWS/AWS Databases",
     "AWS/AWS Cloud Storage",
-    "AWS/IAM",
-    "AWS/Lambda"
+    "AWS/IAM"
   ]
 }

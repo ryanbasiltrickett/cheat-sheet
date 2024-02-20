@@ -3,7 +3,6 @@ Amazon Virtual Private Cloud (VPC) is a service provided by Amazon Web Services 
 Documentation: [VPC Reference](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 ___
 ### Overview
-
 #### Subnets
 Subnets in AWS are segmented portions of an Amazon Virtual Private Cloud (VPC) network, each assigned to a specific Availability Zone (AZ) within a region and IP address range. They help organize and manage resources within the VPC and control the flow of network traffic. By deploying resources across multiple subnets spanning different AZs, users can achieve high availability and fault tolerance. Subnets also enable the implementation of network security measures, such as [[Security Groups]] and network access control lists ([[ACL]]), to regulate traffic flow effectively.
 #### Internet Gateways

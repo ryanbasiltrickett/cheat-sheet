@@ -9,7 +9,6 @@ ___
 - Accelerated Computing
 - Storage Optimized
 - HPC Optimized
-
 ### EC2 Pricing Plans:
 - On-demand Instances
 - Spot Instances
