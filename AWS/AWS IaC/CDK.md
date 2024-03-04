@@ -1,0 +1,4 @@
+The AWS Cloud Development Kit (CDK) is a software development framework allowing developers to define cloud infrastructure using familiar programming languages like TypeScript, Python, and Java. CDK provides high-level constructs representing AWS resources, enabling developers to define infrastructure as code (IaC) using object-oriented programming principles. With CDK, developers create reusable components, manage dependencies, and leverage programming languages to build scalable cloud applications. Synthesizing infrastructure definitions into [[CloudFormation]] templates, CDK facilitates seamless deployment and management of cloud resources. Treating infrastructure as code, CDK promotes consistency, repeatability, and automation in cloud application development workflows.
+
+Documentation: [CDK Reference](https://aws.amazon.com/cdk/)
+___
