@@ -1,0 +1,4 @@
+VPN CloudHub is an AWS service that securely connects multiple remote networks to your Amazon Virtual Private Cloud ([[VPC]]) using encrypted VPN connections. It simplifies network connectivity by centralizing VPN management within AWS and supports dynamic routing protocols for efficient traffic routing. This service enables a hub-and-spoke architecture, allowing branch offices or data centers to securely communicate with each other and AWS resources over encrypted tunnels.
+
+Documentation: [VPN CloudHub](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-vpn-cloudhub.html)
+___

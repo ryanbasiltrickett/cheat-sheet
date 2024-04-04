@@ -2,3 +2,10 @@ AWS Direct Connect is a cloud service provided by Amazon Web Services (AWS) that
 
 Documentation: [AWS Direct Connect Reference](https://aws.amazon.com/directconnect/)
 ___
+### Overview
+#### Dedicated Connection
+Physical network connection associated with a single customer from customer premises to AWS services.
+#### Hosted Connection
+Physical network connection through an AWS Direct Connect Partner provisioned on the behalf of a customer. The AWS Direct Connect Partner will need to be contacted directly.
+
+___

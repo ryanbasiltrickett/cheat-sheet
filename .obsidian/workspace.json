@@ -11,8 +11,12 @@
             "id": "e465b9c772eb6fcb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AWS/AWS Networking/Route 53.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS/AWS Networking/Route 53.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AWS/AWS Networking/Route 53.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AWS/AWS Networking/Route 53.md"
+              }
             }
           },
           {
@@ -158,33 +166,33 @@
   },
   "active": "e465b9c772eb6fcb",
   "lastOpenFiles": [
-    "AWS/AWS Cloud Storage/S3.md",
-    "AWS/Lambda.md",
-    "AWS/Kinesis.md",
-    "AWS/EventBridge.md",
+    "AWS/AWS Networking/PrivateLink.md",
+    "AWS/AWS Networking/Route 53.md",
+    "AWS/AWS Networking/Wavelength.md",
+    "AWS/AWS Networking/VPN CloudHub.md",
+    "AWS/AWS Networking/VPC.md",
+    "AWS/AWS Networking/Transit Gateway.md",
+    "AWS/AWS Networking/Security Groups.md",
+    "AWS/AWS Networking/Direct Connect.md",
+    "AWS/AWS Networking/API Gateway.md",
+    "AWS/AWS Networking/ACL.md",
     "AWS/Elastic Beanstalk.md",
-    "AWS/API Gateway.md",
+    "AWS/EventBridge.md",
+    "AWS/Kinesis.md",
+    "AWS/Lambda.md",
     "AWS/Step Functions.md",
     "AWS/SQS.md",
     "AWS/SNS.md",
     "AWS/SES.md",
+    "AWS/AWS Networking/ELB.md",
+    "AWS/EC2/EC2 Instances.md",
+    "AWS/AWS Cloud Storage/S3.md",
     "AWS/AWS Access Management/Cognito.md",
     "AWS/Kinesis/Kinesis Data Streams.md",
     "AWS/AWS IaC/CloudFormation.md",
     "AWS/AWS IaC/CDK.md",
     "AWS/AWS IaC/SAM.md",
-    "AWS/Kinesis/Kinesis Streams.md",
-    "AWS/Kinesis/Kinesis Firehouse.md",
-    "AWS/AWS Networking/Direct Connect.md",
-    "AWS/AWS Networking/ACL.md",
-    "AWS/EC2/EC2 Autoscaling.md",
     "AWS/AWS IaC",
-    "Firebase/Firebase CLI.md",
-    "Kubernetes/Kubernetes Overview.md",
-    "Kubernetes/Kubernetes Ingress.md",
-    "AWS/EC2/EC2 Instances.md",
-    "AWS/AWS Tools/CloudWatch.md",
-    "Firebase/Firebase Emulator.md",
     "AWS/EC2",
     "AWS/EC2",
     "AWS/AWS Containerization",

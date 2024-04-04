@@ -2,18 +2,26 @@ Amazon EC2 (Elastic Compute Cloud) is an AWS service offering resizable compute 
 
 Documentation: [EC2 Reference](https://aws.amazon.com/ec2/)
 ___
-### EC2 Instance Families
+### Overview
+#### EC2 Instance Families
 - General Purpose
 - Compute Optimized
 - Memory Optimized
 - Accelerated Computing
 - Storage Optimized
 - HPC Optimized
-### EC2 Pricing Plans:
+#### EC2 Pricing Plans:
 - On-demand Instances
 - Spot Instances
 - Savings Plans
 - Reserved Instances
 - Dedicated Host
+
+___
+### Advanced Overview
+#### Spot Instances
+You define a maximum price to launch your instance at, the instance will be provisioned until the price goes above the maximum range set by the user. To ensure that the instances are not terminated for perhaps specific jobs you can use Spot Block which ensure your instances run up to 6 hours even if the instance price exceeds the threshold.
+#### EC2 Hibernation
+Used for instances that have a long start time or need to be restarted quickly. The RAM is stored on the EBS root volume and is reloaded during launch, therefore there is no need to reload the OS. In order for this process to work the instance must have a RAM of less than 150GB. It is only available on General Purpose, Compute Optimized, Memory Optimized, and Storage Optimized instance families.
 
 ___
