@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Firebase  ",
@@ -29,17 +29,24 @@
       }
     },
     {
-      "query": "path:\"Software Development Concepts\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 49696
-      }
-    },
-    {
       "query": "path:\"Interesting Tools\"  ",
       "color": {
         "a": 1,
         "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"Software Development Concepts/Design Patterns\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10050774
+      }
+    },
+    {
+      "query": "path:\"Software Development Concepts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
       }
     }
   ],
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6189069269587015,
+  "scale": 0.4942612563915744,
   "close": true
 }

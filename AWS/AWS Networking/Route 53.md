@@ -12,4 +12,7 @@ ___
 - Geoproximity Routing
 - Mulitivalue Answer Routing
 
+#### Traffic Flow
+Visualize and control the routing of an application's traffic. It provides a simple, visual editor to create routing policies based on different criteria such as geographic location, latency, or health checks. With Traffic Flow, users can easily configure complex routing policies to optimize performance, improve availability, and implement failover strategies for their applications. It's a powerful tool for managing traffic across distributed environments and ensuring seamless user experience.
+
 ___

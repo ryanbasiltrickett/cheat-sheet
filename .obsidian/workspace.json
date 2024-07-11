@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7b4e9bea1115964e",
+        "id": "a19b6224ed7c331e",
         "type": "tabs",
         "children": [
           {
-            "id": "e465b9c772eb6fcb",
+            "id": "1010582523522ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Networking/Route 53.md",
+                "file": "AWS/AWS Big Data/EMR.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Networking/Route 53.md",
+                "file": "AWS/AWS Big Data/EMR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Networking/Route 53.md",
+                "file": "AWS/AWS Big Data/EMR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Networking/Route 53.md"
+                "file": "AWS/AWS Big Data/EMR.md"
               }
             }
           },
@@ -164,34 +164,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e465b9c772eb6fcb",
+  "active": "8f78aa42c01b5e85",
   "lastOpenFiles": [
-    "AWS/AWS Networking/PrivateLink.md",
-    "AWS/AWS Networking/Route 53.md",
-    "AWS/AWS Networking/Wavelength.md",
-    "AWS/AWS Networking/VPN CloudHub.md",
-    "AWS/AWS Networking/VPC.md",
-    "AWS/AWS Networking/Transit Gateway.md",
-    "AWS/AWS Networking/Security Groups.md",
-    "AWS/AWS Networking/Direct Connect.md",
-    "AWS/AWS Networking/API Gateway.md",
-    "AWS/AWS Networking/ACL.md",
-    "AWS/Elastic Beanstalk.md",
-    "AWS/EventBridge.md",
-    "AWS/Kinesis.md",
-    "AWS/Lambda.md",
+    "AWS/AWS Big Data/Kinesis.md",
+    "AWS/AWS Big Data/EMR.md",
+    "AWS/AppFlow.md",
+    "AWS/AWS Big Data/Snowflake.md",
+    "AWS/MQ.md",
+    "AWS/SES.md",
     "AWS/Step Functions.md",
     "AWS/SQS.md",
     "AWS/SNS.md",
-    "AWS/SES.md",
-    "AWS/AWS Networking/ELB.md",
-    "AWS/EC2/EC2 Instances.md",
-    "AWS/AWS Cloud Storage/S3.md",
-    "AWS/AWS Access Management/Cognito.md",
-    "AWS/Kinesis/Kinesis Data Streams.md",
+    "AWS/AWS Big Data/Redshift.md",
+    "Snowflake.md",
+    "AWS/Elastic Beanstalk.md",
+    "AWS/AWS IaC/SAM.md",
+    "AWS/AWS Big Data",
     "AWS/AWS IaC/CloudFormation.md",
     "AWS/AWS IaC/CDK.md",
-    "AWS/AWS IaC/SAM.md",
+    "AWS/AWS Databases/Timestream.md",
+    "AWS/AWS Databases/RDS.md",
+    "AWS/AWS Databases/QLDB.md",
+    "AWS/AWS Databases/Neptune.md",
+    "AWS/AWS Databases/MemoryDB.md",
+    "AWS/AWS Databases/Keyspace.md",
+    "AWS/AWS Databases/ElastiCache.md",
+    "AWS/AWS Databases/DynamoDB.md",
+    "AWS/EventBridge.md",
+    "AWS/AWS Databases/DocumentDB.md",
+    "Software Development Concepts/Design Patterns/Builder.md",
+    "Software Development Concepts/Design Patterns",
     "AWS/AWS IaC",
     "AWS/EC2",
     "AWS/EC2",
@@ -199,8 +201,6 @@
     "AWS/AWS Networking",
     "Interesting Tools/DevOps",
     "Interesting Tools",
-    "AWS/Elastic Beanstalk",
-    "AWS/Kinesis",
-    "AWS/AWS Tools"
+    "AWS/Elastic Beanstalk"
   ]
 }

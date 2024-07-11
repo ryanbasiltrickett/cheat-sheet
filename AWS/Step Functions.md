@@ -3,6 +3,25 @@ AWS Step Functions is a managed service facilitating the creation of serverless 
 Documentation: [Step Functions Reference](https://aws.amazon.com/step-functions/)
 ___
 ### Overview
+#### Types of Workflows
+##### Standard
+- Exactly-once Execution
+- Long Running
+- 2 000 Executions per Second
+- Price per State Transition
+##### Express
+- At-least-once Execution
+- Short Running
+- Price per Duration, Executions, and Memory
+#### State Types
+- Pass
+- Task
+- Choice
+- Wait
+- Succeed
+- Fail
+- Parallel
+- Map
 #### Error Types
 - States.ALL
 - States.DataLimitExceeded
