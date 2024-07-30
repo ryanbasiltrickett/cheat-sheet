@@ -3,5 +3,14 @@ Amazon ElastiCache is a fully managed, in-memory caching service designed to acc
 Documentation: [ElastiCache Reference](https://aws.amazon.com/elasticache/)
 ___
 ### Overview
+#### Memchached
+- Simple Caching Solution
+- No Failover
+- No Backups
+#### Redis
+- Advanced Caching Solution
+- Functions as a Standalone Database
+- Failover and Multi-AZ Support
+- Supports Backups
 
 ___

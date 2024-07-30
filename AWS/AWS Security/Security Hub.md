@@ -3,5 +3,8 @@ AWS Security Hub is a managed security service provided by Amazon Web Services t
 Documentation: [Security Hub](https://aws.amazon.com/security-hub/)
 ___
 ### Overview
+#### Features
+- Conduct Cloud Security Posture Management
+- Correlate Security Findings
 
 ___
