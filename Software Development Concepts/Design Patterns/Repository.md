@@ -11,7 +11,7 @@ ___
 
 ___
 ### Related Patterns
-- **[[Factory]]**: Factories can be used to create instances of repositories, especially when repositories have complex creation logic or depend on external resources like database connections.
+- **[[Factory Method]]**: Factory Methods can be used to create instances of repositories, especially when repositories have complex creation logic or depend on external resources like database connections.
 - **[[Decorator]]**: This pattern can be used to add additional behavior to repositories. For example, you can use a decorator to add caching to a repository.
 - **[[Strategy]]**: The Strategy pattern can be used to define different query strategies that can be used by a repository. This allows for flexible querying mechanisms.
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "717ff10984c0bcaf",
+        "id": "186e0fa454258766",
         "type": "tabs",
         "children": [
           {
-            "id": "026db4ef642f1565",
+            "id": "0292c7e3c0b1c381",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Firebase/Firebase Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Firebase/Firebase Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Firebase/Firebase Functions.md"
+              }
             }
           },
           {
@@ -156,8 +160,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "026db4ef642f1565",
+  "active": "8f78aa42c01b5e85",
   "lastOpenFiles": [
+    "Firebase/Firebase Firestore.md",
+    "Firebase/Firebase Emulator.md",
+    "Firebase/Firebase CLI.md",
+    "Interesting Tools/Interesting DevOps Tools.md",
+    "Kubernetes/ArgoCD.md",
+    "Kubernetes/Kubernetes Overview.md",
+    "Kubernetes/Secret.md",
+    "Kubernetes/ConfigMap.md",
+    "Kubernetes/Kubernetes Deployments.md",
+    "Kubernetes/Kubernetes Ingress.md",
+    "Kubernetes/Persistence Volumes.md",
+    "Software Development Concepts/Design Patterns/Repository.md",
     "Software Development Concepts/Design Patterns/Visitor.md",
     "Software Development Concepts/Design Patterns/Template Method.md",
     "Software Development Concepts/Design Patterns/Strategy.md",
@@ -172,18 +188,6 @@
     "Software Development Concepts/Design Patterns/Interpreter.md",
     "Software Development Concepts/Design Patterns/Façade.md",
     "Software Development Concepts/Well-Architected Applications.md",
-    "Software Development Concepts/High Availability.md",
-    "Software Development Concepts/12 Factor Applications.md",
-    "AWS/AWS Compute/EC2 Instances.md",
-    "AWS/Backup.md",
-    "AWS/AWS Compute/EC2 Autoscaling.md",
-    "AWS/IoT Greengrass.md",
-    "AWS/AWS Networking/App Mesh.md",
-    "AWS/AWS Migration/Snowball Edge.md",
-    "AWS/AWS Migration/Storage Gateway.md",
-    "AWS/AWS Cloud Storage/S3.md",
-    "AWS/AWS Cloud Storage/EBS.md",
-    "AWS/AWS Data Analysis/EMR.md",
     "AWS/AWS Machine Learning",
     "AWS/AWS for Web Applications",
     "AWS/AWS Migration",
