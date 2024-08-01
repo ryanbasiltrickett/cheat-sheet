@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "74fad47235b33bb8",
+        "id": "717ff10984c0bcaf",
         "type": "tabs",
         "children": [
           {
-            "id": "7febae1feddac471",
+            "id": "026db4ef642f1565",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AWS/AWS Compute/EC2 Autoscaling.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Compute/EC2 Autoscaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Compute/EC2 Autoscaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AWS/AWS Compute/EC2 Autoscaling.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,34 +156,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7febae1feddac471",
+  "active": "026db4ef642f1565",
   "lastOpenFiles": [
+    "Software Development Concepts/Design Patterns/Visitor.md",
+    "Software Development Concepts/Design Patterns/Template Method.md",
+    "Software Development Concepts/Design Patterns/Strategy.md",
+    "Software Development Concepts/Design Patterns/State.md",
+    "Software Development Concepts/Design Patterns/Singleton.md",
+    "Software Development Concepts/Design Patterns/Proxy.md",
+    "Software Development Concepts/Design Patterns/Prototype.md",
+    "Software Development Concepts/Design Patterns/Observer.md",
+    "Software Development Concepts/Design Patterns/Memento.md",
+    "Software Development Concepts/Design Patterns/Iterator.md",
+    "Software Development Concepts/Design Patterns/Mediator.md",
+    "Software Development Concepts/Design Patterns/Interpreter.md",
+    "Software Development Concepts/Design Patterns/Façade.md",
+    "Software Development Concepts/Well-Architected Applications.md",
+    "Software Development Concepts/High Availability.md",
+    "Software Development Concepts/12 Factor Applications.md",
+    "AWS/AWS Compute/EC2 Instances.md",
+    "AWS/Backup.md",
+    "AWS/AWS Compute/EC2 Autoscaling.md",
     "AWS/IoT Greengrass.md",
     "AWS/AWS Networking/App Mesh.md",
-    "AWS/AWS Compute/EC2 Autoscaling.md",
     "AWS/AWS Migration/Snowball Edge.md",
     "AWS/AWS Migration/Storage Gateway.md",
     "AWS/AWS Cloud Storage/S3.md",
-    "AWS/AWS Compute/EC2 Instances.md",
     "AWS/AWS Cloud Storage/EBS.md",
     "AWS/AWS Data Analysis/EMR.md",
-    "Software Development Concepts/Well-Architected Applications.md",
-    "Software Development Concepts/Design Patterns/Iterator.md",
-    "Software Development Concepts/Design Patterns/Mediator.md",
-    "Software Development Concepts/Design Patterns/Memento.md",
-    "AWS/AWS Networking/Direct Connect.md",
-    "AWS/AWS Networking/PrivateLink.md",
-    "AWS/AWS Security/GuardDuty.md",
-    "AWS/AWS Security/Shield.md",
-    "AWS/AWS Migration/DataSync.md",
-    "AWS/AWS Data Analysis/Kinesis.md",
-    "AWS/AWS Machine Learning/SageMaker.md",
-    "AWS/AWS Containerization/EKS & ECS Anywhere.md",
-    "AWS/AWS Containerization/EKS-D.md",
-    "AWS/AWS Machine Learning/Rekognition.md",
-    "AWS/AWS Machine Learning/Lex.md",
-    "AWS/AWS Machine Learning/Kendra.md",
-    "AWS/AWS Machine Learning/Fraud Detector.md",
     "AWS/AWS Machine Learning",
     "AWS/AWS for Web Applications",
     "AWS/AWS Migration",

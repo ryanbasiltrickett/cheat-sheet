@@ -10,3 +10,8 @@ ___
 - **ConcreteObserver**: Implements the Observer interface and receives notifications from the subject when its state changes. It updates itself based on the state changes of the subject.
 
 ___
+### Related Patterns
+- [[Mediator]]: The mediator defines how objects interact and thereby promotes loose coupling between the objects. The objects can therefore interact independently. Mediators are often used to ensure the independent transfer of state between the subject and its observers. 
+- [[Singleton]]: By making the subject a singleton, it ensures that the subject has only one access point to it.
+
+___

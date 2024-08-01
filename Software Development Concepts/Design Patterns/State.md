@@ -9,3 +9,9 @@ ___
 - **ConcreteState**: Classes that implement the State interface, encapsulating the behavior associated with a particular state of the Context.
 
 ___
+### Related Patterns
+- [[Strategy]]: The Strategy and State patterns have the same structure and both apply the PV Principle to achieve their goals. However, they differ in intent. The Strategy pattern is about having different implementations that accomplishes the same result, so that one implementation can replace the other as the Strategy requires while the State pattern is about doing different things based on the state, while relieving the caller from the burden to accommodate every possible state. 
+- [[Singleton]] and [[Prototype]]: When implementing the state pattern, the programmer has to decide on how the state objects will be created. Often the application of the Prototype pattern will be ideal. State objects are also often Singletons. 
+- [[Flyweight]]: State objects can be shared by applying Flyweight.
+
+___

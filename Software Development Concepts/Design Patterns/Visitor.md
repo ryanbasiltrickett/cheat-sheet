@@ -11,3 +11,11 @@ ___
 - **ObjectStructure**: A class that contains a collection of elements. It can iterate over these elements and apply visitors to them.
 
 ___
+### Related Patterns
+- [[Composite]]: The Composite is supportive to the Visitor. Visitors can apply an operation over an object structure defined by the Composite pattern. 
+- [[Iterator]]: Iterator and Visitor has similar intents. Visitor, however, is more general than Iterator. An Iterator is restricted to operations on elements of the same kind while Visitor can operate on elements of different types. 
+- [[Interpreter]]: The Visitor pattern may be applied to do the interpretation. 
+- [[Abstract Factory]]: Abstract Factory and Visitor has similar structure. Abstract factory applies the structure to create families of objects while Visitor applies this structure to perform a group of related operations. 
+- [[Bridge]]: Both Bridge and Visitor separates state and behaviour of objects. Bridge applies single dispatch while Visitor applies double dispatch.
+
+___

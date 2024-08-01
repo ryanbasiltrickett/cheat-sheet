@@ -4,11 +4,11 @@ Documentation: [EC2 Reference](https://aws.amazon.com/ec2/)
 ___
 ### Overview
 #### EC2 Instance Families
-- General Purpose
-- Compute Optimized
-- Memory Optimized
-- Accelerated Computing
-- Storage Optimized
+- General Purpose (T2, T3, T4, M5, M6)
+- Compute Optimized (C5, C6)
+- Memory Optimized (R5, R6, X1)
+- Accelerated Computing (F1, G4, P2, P3)
+- Storage Optimized (H1, D2, I3)
 - HPC Optimized
 #### EC2 Pricing Plans:
 - On-demand Instances

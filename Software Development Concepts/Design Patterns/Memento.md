@@ -9,3 +9,9 @@ ___
 - **Caretaker**: Manages the memento. It keeps track of the memento(s) but does not modify or inspect their content. The Caretaker requests a memento from the Originator, saves it, and can later provide it back to the Originator for state restoration.
 
 ___
+### Related Patterns
+- [[Command]]: Makes use of mementos to maintain the state of commands, in the order they were issued, in order to support undoable operations. 
+- [[Iterator]]: Mementos can be used for iteration to maintain the state of the iterator.
+- [[Bridge]]: Can be applied in order to separate the interface from the implementation of the memento in order to provide the wide interface between the originator and the memento without using the friend technique which violates object oriented encapsulation.
+
+___

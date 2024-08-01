@@ -10,3 +10,8 @@ ___
 - **ConcreteColleague**: Implements the Colleague interface and communicates with other Colleague objects through the Mediator. It sends and receives messages through the Mediator rather than directly communicating with other Colleagues.
 
 ___
+### Related Patterns
+- [[Façade]]: Differs from Mediator in that it abstracts a subsystem of objects to provides more convenient interface. Its protocol is unidirectional; that is, Façade objects make requests of the subsystem classes but not vice versa. In contrast, Mediator enables cooperative behaviour that colleague objects don’t or can’t provide, and the protocol is multidirectional. 
+- [[Observer]]: Colleagues can communicate with the mediator using the Observer pattern.
+
+___
