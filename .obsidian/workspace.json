@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "177160d0c398c977",
+        "id": "3b32894d5da5c06e",
         "type": "tabs",
         "children": [
           {
-            "id": "c17909541d841116",
+            "id": "2ff42f01cb104ebd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS/AWS Databases/ElastiCache.md",
+                "file": "Software Development Concepts/Design Patterns/Iterator.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS/AWS Databases/ElastiCache.md",
+                "file": "Software Development Concepts/Design Patterns/Iterator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AWS/AWS Databases/ElastiCache.md",
+                "file": "Software Development Concepts/Design Patterns/Iterator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AWS/AWS Databases/ElastiCache.md"
+                "file": "Software Development Concepts/Design Patterns/Iterator.md"
               }
             }
           },
@@ -164,43 +164,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c17909541d841116",
+  "active": "2ff42f01cb104ebd",
   "lastOpenFiles": [
-    "AWS/AWS Networking/PrivateLink.md",
+    "Software Development Concepts/Design Patterns/Mediator.md",
+    "Software Development Concepts/Design Patterns/Iterator.md",
+    "Software Development Concepts/Design Patterns/Memento.md",
     "AWS/AWS Compute/EC2 Instances.md",
-    "AWS/AWS Tools/X-Ray.md",
-    "AWS/AWS Tools/CloudWatch.md",
-    "AWS/AWS Tools/CloudTrail.md",
-    "AWS/AWS Tools/Batch.md",
-    "AWS/AppSync.md",
-    "AWS/CloudFront.md",
-    "AWS/EventBridge.md",
-    "AWS/Global Accelerator.md",
-    "AWS/MQ.md",
-    "AWS/MSK.md",
-    "AWS/Organisations.md",
-    "AWS/RAM.md",
-    "AWS/SES.md",
-    "AWS/SNS.md",
-    "AWS/SQS.md",
-    "AWS/Systems Manager.md",
-    "Kubernetes/Kubernetes Overview.md",
-    "Kubernetes/Persistence Volumes.md",
-    "Kubernetes/Kubernetes Ingress.md",
-    "Kubernetes/Kubernetes Deployments.md",
-    "Kubernetes/ConfigMaps and Secrets.md",
-    "Kubernetes/ArgoCD.md",
-    "Interesting Tools/Interesting DevOps Tools.md",
-    "Firebase/Firebase Functions.md",
+    "AWS/AWS Compute/EC2 Autoscaling.md",
+    "AWS/AWS Networking/Direct Connect.md",
+    "AWS/AWS Networking/PrivateLink.md",
+    "AWS/AWS Security/GuardDuty.md",
+    "AWS/AWS Security/Shield.md",
+    "AWS/AWS Migration/Storage Gateway.md",
+    "AWS/AWS Migration/DataSync.md",
+    "Software Development Concepts/Well-Architected Applications.md",
+    "AWS/AWS Data Analysis/Kinesis.md",
+    "AWS/AWS Machine Learning/SageMaker.md",
+    "AWS/AWS Containerization/EKS & ECS Anywhere.md",
+    "AWS/AWS Containerization/EKS-D.md",
+    "AWS/AWS Machine Learning/Rekognition.md",
+    "AWS/AWS Machine Learning/Lex.md",
+    "AWS/AWS Machine Learning/Kendra.md",
+    "AWS/AWS Machine Learning/Fraud Detector.md",
+    "AWS/AWS Machine Learning/Comprehend.md",
+    "AWS/AWS Machine Learning/Transcribe.md",
+    "AWS/AWS Machine Learning/Polly.md",
+    "AWS/AWS Machine Learning/Forecast.md",
+    "AWS/AWS Machine Learning/Textract.md",
+    "AWS/AWS for Web Applications/Pinpoint.md",
+    "AWS/AWS Machine Learning",
+    "AWS/AWS for Web Applications",
+    "AWS/AWS Migration",
+    "AWS/AWS Governance",
     "AWS/AWS Security",
     "AWS/AWS Serverless Compute",
     "AWS/AWS Compute",
     "AWS/AWS Data Analysis",
     "Software Development Concepts/Design Patterns",
-    "AWS/AWS IaC",
-    "AWS/EC2",
-    "AWS/EC2",
-    "AWS/AWS Containerization",
-    "AWS/AWS Networking"
+    "AWS/AWS IaC"
   ]
 }
