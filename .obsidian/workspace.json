@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b32894d5da5c06e",
+        "id": "74fad47235b33bb8",
         "type": "tabs",
         "children": [
           {
-            "id": "2ff42f01cb104ebd",
+            "id": "7febae1feddac471",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Development Concepts/Design Patterns/Iterator.md",
+                "file": "AWS/AWS Compute/EC2 Autoscaling.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Software Development Concepts/Design Patterns/Iterator.md",
+                "file": "AWS/AWS Compute/EC2 Autoscaling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software Development Concepts/Design Patterns/Iterator.md",
+                "file": "AWS/AWS Compute/EC2 Autoscaling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software Development Concepts/Design Patterns/Iterator.md"
+                "file": "AWS/AWS Compute/EC2 Autoscaling.md"
               }
             }
           },
@@ -164,20 +164,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ff42f01cb104ebd",
+  "active": "7febae1feddac471",
   "lastOpenFiles": [
-    "Software Development Concepts/Design Patterns/Mediator.md",
-    "Software Development Concepts/Design Patterns/Iterator.md",
-    "Software Development Concepts/Design Patterns/Memento.md",
-    "AWS/AWS Compute/EC2 Instances.md",
+    "AWS/IoT Greengrass.md",
+    "AWS/AWS Networking/App Mesh.md",
     "AWS/AWS Compute/EC2 Autoscaling.md",
+    "AWS/AWS Migration/Snowball Edge.md",
+    "AWS/AWS Migration/Storage Gateway.md",
+    "AWS/AWS Cloud Storage/S3.md",
+    "AWS/AWS Compute/EC2 Instances.md",
+    "AWS/AWS Cloud Storage/EBS.md",
+    "AWS/AWS Data Analysis/EMR.md",
+    "Software Development Concepts/Well-Architected Applications.md",
+    "Software Development Concepts/Design Patterns/Iterator.md",
+    "Software Development Concepts/Design Patterns/Mediator.md",
+    "Software Development Concepts/Design Patterns/Memento.md",
     "AWS/AWS Networking/Direct Connect.md",
     "AWS/AWS Networking/PrivateLink.md",
     "AWS/AWS Security/GuardDuty.md",
     "AWS/AWS Security/Shield.md",
-    "AWS/AWS Migration/Storage Gateway.md",
     "AWS/AWS Migration/DataSync.md",
-    "Software Development Concepts/Well-Architected Applications.md",
     "AWS/AWS Data Analysis/Kinesis.md",
     "AWS/AWS Machine Learning/SageMaker.md",
     "AWS/AWS Containerization/EKS & ECS Anywhere.md",
@@ -186,12 +192,6 @@
     "AWS/AWS Machine Learning/Lex.md",
     "AWS/AWS Machine Learning/Kendra.md",
     "AWS/AWS Machine Learning/Fraud Detector.md",
-    "AWS/AWS Machine Learning/Comprehend.md",
-    "AWS/AWS Machine Learning/Transcribe.md",
-    "AWS/AWS Machine Learning/Polly.md",
-    "AWS/AWS Machine Learning/Forecast.md",
-    "AWS/AWS Machine Learning/Textract.md",
-    "AWS/AWS for Web Applications/Pinpoint.md",
     "AWS/AWS Machine Learning",
     "AWS/AWS for Web Applications",
     "AWS/AWS Migration",
