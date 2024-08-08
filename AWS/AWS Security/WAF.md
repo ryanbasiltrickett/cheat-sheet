@@ -14,5 +14,9 @@ ___
 - SQL Injection Indicators
 - Cross-site Scripting Indicators
 - Regex
+### Rate-Based Rules
+- Blanket Rate-based
+- URI-specific Rate-based
+- IP Reputation Rate-based
 
 ___

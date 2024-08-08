@@ -1,4 +1,0 @@
-AWS Wavelength extends AWS infrastructure to telecommunications edge locations, allowing developers to deploy applications that require ultra-low latency to mobile and connected devices. By colocating AWS compute and storage services with 5G networks, Wavelength reduces the latency and improves the performance of applications that require real-time responsiveness. Developers can leverage familiar AWS services, APIs, and tools to build and deploy applications at the edge seamlessly. This integration enables a range of use cases, including gaming, media streaming, IoT, and machine learning, where milliseconds matter for user experience and responsiveness. With AWS Wavelength, developers can deliver high-performance applications that meet the demands of emerging 5G networks and edge computing requirements.
-
-Documentation: [Wavelength Reference](https://aws.amazon.com/wavelength/)
-___

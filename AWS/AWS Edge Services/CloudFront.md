@@ -8,5 +8,7 @@ ___
 - Global Distribution
 - Endpoint Support (including Non-AWS Applications)
 - Expiring Content
+- Signed URLs
+- Signed Cookies
 
 ___

@@ -7,7 +7,7 @@ ___
 - Collects Usage and Configuration Data
 - Track Discovered Servers
 #### Discovery Types
-- Agentless
+- Agentless (VMware)
 - Agent Based
 
 ___

@@ -3,5 +3,13 @@ Amazon EC2 Auto Scaling is a managed service provided by Amazon Web Services tha
 Documentation: [EC2 Autoscaling Reference](https://aws.amazon.com/autoscaling/)
 ___
 ### Overview
+#### Scaling Policies
+- Step Scaling
+- Simple Scaling
+- Target Tracking
+#### Scaling Types
+- Reactive Scaling
+- Scheduled Scaling
+- Predictive Tracking
 
 ___

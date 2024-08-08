@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "186e0fa454258766",
+        "id": "775ad40b76aa5330",
         "type": "tabs",
         "children": [
           {
-            "id": "0292c7e3c0b1c381",
+            "id": "3e928e9a16014ed4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firebase/Firebase Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firebase/Firebase Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Firebase/Firebase Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,43 +156,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8f78aa42c01b5e85",
+  "active": "3e928e9a16014ed4",
   "lastOpenFiles": [
-    "Firebase/Firebase Firestore.md",
-    "Firebase/Firebase Emulator.md",
-    "Firebase/Firebase CLI.md",
-    "Interesting Tools/Interesting DevOps Tools.md",
-    "Kubernetes/ArgoCD.md",
-    "Kubernetes/Kubernetes Overview.md",
-    "Kubernetes/Secret.md",
-    "Kubernetes/ConfigMap.md",
-    "Kubernetes/Kubernetes Deployments.md",
-    "Kubernetes/Kubernetes Ingress.md",
-    "Kubernetes/Persistence Volumes.md",
-    "Software Development Concepts/Design Patterns/Repository.md",
-    "Software Development Concepts/Design Patterns/Visitor.md",
-    "Software Development Concepts/Design Patterns/Template Method.md",
-    "Software Development Concepts/Design Patterns/Strategy.md",
-    "Software Development Concepts/Design Patterns/State.md",
-    "Software Development Concepts/Design Patterns/Singleton.md",
-    "Software Development Concepts/Design Patterns/Proxy.md",
-    "Software Development Concepts/Design Patterns/Prototype.md",
-    "Software Development Concepts/Design Patterns/Observer.md",
-    "Software Development Concepts/Design Patterns/Memento.md",
-    "Software Development Concepts/Design Patterns/Iterator.md",
-    "Software Development Concepts/Design Patterns/Mediator.md",
-    "Software Development Concepts/Design Patterns/Interpreter.md",
-    "Software Development Concepts/Design Patterns/Façade.md",
-    "Software Development Concepts/Well-Architected Applications.md",
+    "AWS/AWS Databases/Managed Blockchain.md",
+    "AWS/AWS Data Analysis/OpenSearch Service.md",
+    "AWS/AWS Databases/MSK.md",
+    "AWS/Elastic Transcoder.md",
+    "AWS/SES.md",
+    "AWS/AWS for Web Applications/AppSync.md",
+    "AWS/AWS Tools/Systems Manager.md",
+    "AWS/AWS Events",
+    "AWS/AWS Events/SQS.md",
+    "AWS/AWS Events/SNS.md",
+    "AWS/AWS Events/MQ.md",
+    "AWS/AWS Events/EventBridge.md",
+    "AWS/AWS Data Analysis/AppFlow.md",
+    "AWS/AWS Security/WAF.md",
+    "AWS/AWS Security/Shield.md",
+    "AWS/AWS Security/Security Hub.md",
+    "AWS/AWS Security/Secrets Manager.md",
+    "AWS/AWS Security/Parameter Store.md",
+    "AWS/AWS Security/Network Firewall.md",
+    "AWS/AWS Security/Macie.md",
+    "AWS/AWS Security/Inspector.md",
+    "AWS/AWS Security/GuardDuty.md",
+    "AWS/AWS Security/Firewall Manager.md",
+    "AWS/AWS Security/Detective.md",
+    "AWS/AWS Security/CloudHSM.md",
+    "AWS/AWS Security/Audit Manager.md",
+    "AWS/AWS Security/Artifact.md",
+    "AWS/AWS Monitoring",
+    "AWS/AWS Edge Services",
     "AWS/AWS Machine Learning",
     "AWS/AWS for Web Applications",
     "AWS/AWS Migration",
     "AWS/AWS Governance",
     "AWS/AWS Security",
     "AWS/AWS Serverless Compute",
-    "AWS/AWS Compute",
-    "AWS/AWS Data Analysis",
-    "Software Development Concepts/Design Patterns",
-    "AWS/AWS IaC"
+    "AWS/AWS Compute"
   ]
 }
