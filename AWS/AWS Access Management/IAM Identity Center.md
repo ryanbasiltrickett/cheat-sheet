@@ -1,0 +1,4 @@
+AWS IAM Identity Center (formerly AWS SSO) is a centralized service for managing user access to multiple AWS accounts and applications. It enables you to create or connect users from an identity source (like AWS [[Directory Service]] or an external IdP), assign fine-grained permissions, and provide single sign-on (SSO) access. IAM Identity Center simplifies user management and enhances security by centralizing authentication and authorization across AWS environments and integrated third-party applications.
+
+Documentation: [IAM Identity Center Reference](https://aws.amazon.com/iam/identity-center/)
+___

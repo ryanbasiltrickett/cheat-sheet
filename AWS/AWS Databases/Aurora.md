@@ -3,12 +3,20 @@ Amazon Aurora is a fully managed relational database service designed for high p
 Documentation: [Aurora Reference](https://aws.amazon.com/rds/aurora/)
 ___
 ### Overview
+#### Features
+- PostgreSQL and MySQL Compatible
+- Multi-AZ Availability
+- AWS-managed Auto Scaling (Storage)
+- Easier Multi-region Replication
+- Automated DNS Failover
+#### Read Replication
+- Up to 15 Read Replicas
+- Data Copies Stored Across AZs
+#### Global Databases
+- Asynchronous Replication to Secondary Regions
+- Up to 5 Secondary Regions
+- Cross-region Master Promotion
 #### Aurora Serverless
-##### Features
-- On Demand
-- Automate Monitoring and Capacity
-- Per Second Billing
-##### Concepts
 - Aurora Capacity Units
 - AWS-managed Warm Pools
 

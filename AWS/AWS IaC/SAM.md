@@ -1,4 +1,4 @@
-AWS Serverless Application Model (SAM) is a framework that simplifies building and deploying serverless applications on AWS. It extends [[CloudFormation]] with a simplified syntax for defining serverless resources like Lambda functions and API Gateway APIs. SAM enables developers to define resources in a single YAML or JSON template, streamlining infrastructure management. It also provides local development tools for testing serverless applications locally before deployment, speeding up the development cycle.
+AWS Serverless Application Model (SAM) is an open-source framework that simplifies building and deploying serverless applications on AWS. It extends [[CloudFormation]] with a simplified syntax for defining serverless resources like Lambda functions and API Gateway APIs. SAM enables developers to define resources in a single YAML or JSON template, streamlining infrastructure management. It also provides local development tools for testing serverless applications locally before deployment, speeding up the development cycle.
 
 Documentation: [SAM Reference](https://aws.amazon.com/serverless/sam/)
 ___

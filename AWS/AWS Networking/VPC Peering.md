@@ -1,0 +1,4 @@
+VPC Peering is a networking connection between two Amazon Virtual Private Clouds (VPCs) that enables them to route traffic to each other using private IP addresses. It allows seamless communication between VPCs within the same AWS account or across different accounts, without requiring internet gateways, VPNs, or transit gateways. VPC peering is a one-to-one connection and does not support transitive routing, meaning each pair of VPCs must be peered directly to communicate. It's ideal for simple, low-latency network architectures.
+
+Documentation: [VPC Peering Reference](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-peering.html)
+___

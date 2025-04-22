@@ -10,7 +10,7 @@ ___
 
 ___
 ### Related Patterns
-- **[[Software Development Concepts/Design Patterns/Chain of Responsibility|Chain of Responsibility]]**: Creates a structure that defines a component-parent link.
+- **[[Chain of Responsibility|Chain of Responsibility]]**: Creates a structure that defines a component-parent link.
 - **[[Decorator]]**: Used in conjunction with components to add state to the components. When a decorator and a composite are combined, they usually share the same parent class. 
 - **[[Flyweight]]**: Allows sharing of objects, particularly the leaf nodes Iterator and Visitor Used to traverse the composite structure.
 

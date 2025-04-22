@@ -3,5 +3,8 @@ Amazon Neptune is a fully managed graph database service optimized for storing a
 Documentation: [Neptune Reference](https://aws.amazon.com/neptune/)
 ___
 ### Overview
+#### Features
+- Fully-managed Graph Database
+- Supports Gremlin and SPARQL APIs
 
 ___

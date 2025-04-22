@@ -7,10 +7,16 @@ ___
 - Simple Caching Solution
 - No Failover
 - No Backups
+- Manually Scale In and Out
+- Manually Run Multiple CPU Cores and Threads
+- Cache Objects
 #### Redis
 - Advanced Caching Solution
 - Functions as a Standalone Database
-- Failover and Multi-AZ Support
-- Supports Backups
+- High Availability Support
+- Supports Backup and Restores
+- Supports Encryption
+- Pub/Sub Capability
+- Geospatial Indexing
 
 ___

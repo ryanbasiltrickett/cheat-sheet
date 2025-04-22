@@ -11,7 +11,7 @@ ___
 
 ___
 ### Related Patterns
-- **[[Software Development Concepts/Design Patterns/Chain of Responsibility|Chain of Responsibility]]**: Makes use of Command to represent requests as objects.
+- **[[Chain of Responsibility|Chain of Responsibility]]**: Makes use of Command to represent requests as objects.
 - **[[Composite]]**: MacroCommands can be implemented when combining command with Composite. 
 - **[[Memento]]**: Makes use of Command to keep state the command requires to undo its effect. Prototype: A command that must be copied before being placed on the history list acts as a Prototype.
 

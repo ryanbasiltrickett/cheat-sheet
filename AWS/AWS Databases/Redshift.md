@@ -7,10 +7,13 @@ ___
 - Volume
 - Variety
 - Velocity
+- Data Lake
 #### Features
 - Multi-AZ
 - Snapshots (stored in s3)
 - Redshift Spectrum
 - Enhanced VPC Routing
+- PostgreSQL Compatible (JDBC and ODBC Drivers Available)
+- Parallel Processing Columnar Data
 
 ___

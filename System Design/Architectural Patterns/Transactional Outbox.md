@@ -1,0 +1,4 @@
+The Transactional Outbox pattern is a design pattern used to ensure reliable messaging between services in a distributed system. In this pattern, messages that need to be sent to other services are written to an outbox table as part of the same transaction that updates the application’s database. A separate process then reads these messages from the outbox and sends them to the message broker. This approach guarantees that the message is only sent if the transaction is successfully committed, preventing issues like message loss or inconsistencies between the database and the message broker. The pattern helps achieve atomicity in distributed systems but requires careful management of the outbox processing to ensure timely message delivery.
+
+Documentation: [Transactional Outbox Reference](https://dip-mazumder.medium.com/consistency-in-microservices-transactional-outbox-pattern-bcd9d3b08676)
+___

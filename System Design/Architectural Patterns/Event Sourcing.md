@@ -1,0 +1,4 @@
+Event sourcing is a design pattern in software architecture where the state of an application is determined by a sequence of events rather than storing the current state directly. Each event represents a change to the application's state and is immutable, meaning it cannot be altered once recorded. By replaying these events, the application's state can be reconstructed at any point in time. Event sourcing enables a clear audit trail, simplifies debugging, and supports complex scenarios like temporal queries, but it can also introduce challenges in managing event stores and handling eventual consistency.
+
+Documentation: [Event Sourcing Reference](https://www.confluent.io/learn/event-sourcing/#:~:text=Event%20sourcing%20is%20an%20approach,nature%20of%20the%20specific%20change.)
+___

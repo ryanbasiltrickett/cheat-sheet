@@ -3,5 +3,10 @@ AWS Glue is a fully managed extract, transform, and load (ETL) service that make
 Documentation: [Glue Reference](https://docs.aws.amazon.com/glue/latest/dg/what-is-glue.html)
 ___
 ### Overview
+#### Features
+- Glue Crawlers
+- ETL Jobs
+- Glue Data Catalog
+- Glue Data Quality
 
 ___

@@ -2,6 +2,3 @@ AWS Fargate is a serverless compute engine for containers that works with both A
 
 Documentation: [Fargate Reference](https://aws.amazon.com/fargate/)
 ___
-### Overview
-
-___

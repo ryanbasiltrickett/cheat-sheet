@@ -36,17 +36,17 @@
       }
     },
     {
-      "query": "path:\"Software Development Concepts/Design Patterns\"  ",
+      "query": "path:\"System Design/Design Patterns\"  ",
       "color": {
         "a": 1,
         "rgb": 10050774
       }
     },
     {
-      "query": "path:\"Software Development Concepts\"  ",
+      "query": "path:\"System Design/Architectural Patterns\"  ",
       "color": {
         "a": 1,
-        "rgb": 6073814
+        "rgb": 52479
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4942612563915757,
+  "scale": 0.25146128877055274,
   "close": true
 }

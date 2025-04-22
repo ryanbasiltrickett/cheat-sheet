@@ -5,5 +5,14 @@ ___
 ### Overview
 #### Concepts
 - DataSync Agent
+#### Features
+- Automates Moving Data from On-premise to AWS
+- Compatible with SMB, HDFS, and NFS
+- Migrate On-premises Object Storage to S3
+
+___
+### Diagrams
+#### DataSync Overview
+![[DataSync Overview.png]]
 
 ___

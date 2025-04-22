@@ -2,5 +2,11 @@ Amazon DocumentDB (with MongoDB compatibility) is a fully managed, scalable, and
 
 Documentation: [DocumentDB Reference](https://aws.amazon.com/documentdb/)
 ___
+### Overview
+#### Features
+- MongoDB API Compatible
+- AWS-managed Auto Scaling (Storage)
+- Write-then-read Consistency / Read Replicas (Eventual Consistency)
+- Backed Up to S3
 
 ___

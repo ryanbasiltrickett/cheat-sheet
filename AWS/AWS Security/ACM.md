@@ -7,5 +7,6 @@ ___
 - Completely Free
 - Automated Renewal and Deployment
 - Easy Setup
+- Create and Manage Private CA for Internal Apps, Devices and Services
 
 ___

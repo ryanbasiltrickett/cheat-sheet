@@ -6,6 +6,12 @@ ___
 #### Features
 - On-demand Backups
 - Point-in-Time Recovery (Past 35 Days)
+- Multi-AZ
+- Cross-Region Replication
+- Supports ACID Compliance (DynamoDB Transactions)
+#### Secondary Indexes
+- Global Secondary Index
+- Local Secondary Index
 #### Dynamo Streams
 - Time-ordered Sequence of Item-level Changes
 - Stored for 24 Hours
@@ -14,5 +20,27 @@ ___
 - In-memory Cache
 - Highly Available
 - Advanced Configurations
+#### Horizontal Scaling
+- Auto Scaling using Target Tracking
+- On-Demand Scaling
+
+___
+### Advanced Overview
+#### DynamoDB Partitioning
+DynamoDB scales out by adding partitions, using the following calculation:
+
+$$
+\boxed{
+	\begin{align*}
+	CapacityRatio &= (TotalRCU / 3000) + (TotalWCU / 1000) \\
+	SizeRatio &= TotalSize/ 10 \\
+	NumPartitions &= MAX(CamPartitions = MAX(CapacityRatio, SizeRatio)
+	\end{align*}
+}
+$$
+
+This means that read and write capacities are allocated equally across partitions, however AWS does allow burst capacity to occur within one partition if the capacity of other partitions isn't being used.
+
+Partitions are chosen using the hash of the partition key, therefore a variable partition key should be used to not create a hot partition and distribute the load across all partitions.
 
 ___
