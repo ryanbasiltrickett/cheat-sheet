@@ -1,0 +1,4 @@
+AWS IoT Device Management is a service that helps you securely onboard, organize, monitor, and remotely manage large fleets of IoT devices. It allows you to register devices in bulk, assign them to groups, and apply configuration and security policies at scale. The service supports over-the-air (OTA) updates, real-time device monitoring, and logging to track device behavior and health. With features like fleet indexing and jobs, you can quickly search device states and automate tasks across your entire fleet, making it easier to maintain and operate IoT environments securely and efficiently.
+
+Documentation: [IoT Device Management Reference](https://aws.amazon.com/iot-device-management/)
+___

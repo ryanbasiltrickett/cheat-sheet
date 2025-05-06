@@ -1,0 +1,4 @@
+AWS Client VPN is a fully managed, scalable VPN service that enables secure access to AWS resources and on-premises networks from any location using an OpenVPN-based client. It supports identity-based authentication through Active Directory, SAML-based providers, or mutual authentication with certificates. Client VPN automatically scales to handle thousands of connections and provides encrypted communication over the internet, helping remote users securely connect to internal systems and services as if they were on the corporate network. It is ideal for remote workforces and hybrid cloud environments.
+
+Documentation: [Client VPN Reference](https://aws.amazon.com/vpn/client-vpn/)
+___

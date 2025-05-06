@@ -1,0 +1,4 @@
+AWS Elastic Kubernetes Service (EKS) is a fully managed service that simplifies running Kubernetes on AWS. It automates the management of the Kubernetes control plane, ensuring high availability and security. EKS integrates with AWS services like IAM for authentication, CloudWatch for monitoring, and ECR for container image storage. It supports seamless scaling, self-healing, and load balancing for containerized applications, enabling efficient operation of microservices and batch processing workloads. EKS leverages the flexibility of Kubernetes while reducing the operational overhead and complexity of managing Kubernetes clusters.
+
+Documentation: [EKS Reference](https://aws.amazon.com/pm/eks/)
+___

@@ -1,0 +1,4 @@
+AWS IoT 1-Click is a service that enables simple devices, such as IoT buttons, to trigger AWS Lambda functions with minimal configuration. Designed for ease of use, it allows users to deploy devices that perform specific actions like sending notifications, placing orders, or initiating workflows. This is done by associating them with predefined Lambda functions. These devices can be managed and monitored through the AWS IoT 1-Click console or mobile app, providing a streamlined approach to integrating physical actions with cloud-based applications.
+
+Documentation: [IoT 1-Click Reference](https://www.clouddefense.ai/glossary/aws/aws-iot-1-click)
+___

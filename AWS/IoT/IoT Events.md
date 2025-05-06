@@ -1,0 +1,4 @@
+AWS IoT Events is a fully managed service that helps you detect and respond to changes in the state of IoT devices or equipment. It monitors data from multiple sources and uses event detection logic to identify conditions like temperature thresholds being exceeded or equipment failures. When such events are detected, IoT Events can trigger actions like sending alerts, initiating workflows, or activating other AWS services. This enables real-time responsiveness in industrial, manufacturing, or smart facility environments, helping automate and streamline operational decision-making.
+
+Documentation: [IoT Events Reference](https://aws.amazon.com/iot-events/)
+___

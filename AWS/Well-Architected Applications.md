@@ -1,6 +1,6 @@
  Well-Architected Applications are those that prioritize resilience, security, efficiency, and cost-effectiveness. These applications scale well, ensure high availability, and handle failures gracefully. By adhering to the Well-Architected Framework, developers create robust solutions that meet business needs while optimizing resource usage in cloud environments.
 
-Documentation: [Well-Architected Applications Reference](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc)
+Documentation: [Well-Architected Applications Reference](https://aws.amazon.com/architecture/well-architected/)
 ___
 ### Overview
 #### Operational Excellence Pillar

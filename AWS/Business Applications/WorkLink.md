@@ -1,0 +1,4 @@
+Amazon WorkLink is a fully managed service that provides secure access to internal websites and web applications from mobile devices without the need for VPNs or custom browsers. It allows employees to view web content hosted behind a corporate firewall through their standard mobile browser, while ensuring that data is never stored on the device. WorkLink streams content securely and renders it as an interactive view, helping protect sensitive information and improving user experience. It's ideal for organizations looking to provide mobile access to internal resources while maintaining strong security and control.
+
+Documentation: [WorkLink Reference](https://aws.amazon.com/workspaces-family/secure-browser/)
+___

@@ -1,0 +1,4 @@
+Alexa for Business is service that enables organizations to use Amazon Alexa devices to improve workplace productivity. It allows you to manage and deploy Alexa-enabled devices across office spaces, meeting rooms, and individual desks. With Alexa for Business, users can perform tasks like joining meetings, controlling conference room equipment, checking calendars, or accessing custom skills built for internal business functions. The service also provides centralized device management, user enrollment, and integration with enterprise systems, helping streamline operations and enhance the employee experience through voice.
+
+Documentation: [Alexa for Business Reference](https://aws.amazon.com/blogs/aws/launch-announcing-alexa-for-business-using-amazon-alexas-voice-enabled-devices-for-workplaces/)
+___

@@ -1,0 +1,4 @@
+Amazon Chime is a secure, real-time communications service that enables users to conduct online meetings, video conferencing, calls, and chat. It provides high-quality audio and video, screen sharing, and collaboration tools, accessible through desktop and mobile applications. Chime can be integrated with business applications and supports scheduling and joining meetings directly from calendar systems. It is also available as a set of SDKs and APIs through Amazon Chime SDK, allowing developers to embed communication features into their own applications.
+
+Documentation: [Chime Reference](https://aws.amazon.com/chime/)
+___

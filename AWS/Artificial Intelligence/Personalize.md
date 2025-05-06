@@ -1,0 +1,4 @@
+Amazon Personalize is a machine learning service that enables developers to create real-time personalized recommendations for users, such as product suggestions, personalized search results, and targeted marketing content. It uses your own data—like user interactions, demographic information, and item metadata—to train custom models without requiring deep ML expertise. Personalize automatically handles the infrastructure, data processing, and model optimization, allowing businesses to quickly integrate tailored experiences into their applications with minimal setup. It's ideal for e-commerce, media, and other platforms looking to boost user engagement and conversion through personalization.
+
+Documentation: [Personalize Reference](https://aws.amazon.com/personalize/)
+___

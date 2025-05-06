@@ -1,0 +1,4 @@
+Amazon Translate is a fully managed neural machine translation service that delivers fast, high-quality, and affordable language translation. It can translate text between dozens of supported languages in real time, making it ideal for applications like website localization, customer support, content generation, and multilingual communication. The service uses deep learning models to produce accurate and natural-sounding translations and can be integrated easily into websites, apps, and backend systems. It also supports batch translation and custom terminology, allowing businesses to maintain consistent branding and domain-specific accuracy.
+
+Documentation: [Translate Reference](https://aws.amazon.com/translate/)
+___

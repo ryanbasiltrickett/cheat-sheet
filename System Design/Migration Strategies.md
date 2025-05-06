@@ -11,11 +11,11 @@ ___
 ### Strategy Trade-offs
 | Migration Strategy | Effort      | Opportunity to Optimize |
 | ------------------ | ----------- | ----------------------- |
-| Re-Host            | Low         | Low                     |
-| Re-Platform        | Medium/High | Medium                  |
-| Re-Purchase        | Medium      | Low                     |
-| Rearchitect        | High        | High                    |
-| Retire             | None        | None                    |
-| Retain             | Low         | None                    |
+| **Re-Host**        | Low         | Low                     |
+| **Re-Platform**    | Medium/High | Medium                  |
+| **Re-Purchase**    | Medium      | Low                     |
+| **Rearchitect**    | High        | High                    |
+| **Retire**         | None        | None                    |
+| **Retain**         | Low         | None                    |
 
 ___

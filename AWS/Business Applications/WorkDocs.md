@@ -1,0 +1,4 @@
+Amazon WorkDocs is a secure, fully managed content creation, storage, and collaboration service for businesses. It allows users to create, edit, share, and comment on documents in real-time, all within a centralized platform. WorkDocs supports integration with existing corporate directories and provides fine-grained access controls, encryption, and auditing capabilities to meet compliance requirements. Users can access their files from any device, and administrators can manage content and permissions through a web-based console. It's designed to improve collaboration while maintaining the security and control required by enterprises.
+
+Documentation: [WorkDocs Reference](https://aws.amazon.com/workdocs/)
+___

@@ -1,0 +1,4 @@
+Amazon WorkMail is a secure, managed business email and calendaring service that supports existing desktop and mobile email clients, including Microsoft Outlook, native iOS and Android apps, and web browsers. It offers features like shared calendars, contact management, and integration with corporate directories such as Microsoft Active Directory. WorkMail automatically encrypts data at rest and in transit, and lets you retain full control over data location and security policies. It’s designed for organizations that need a reliable, scalable email solution without the complexity of managing their own mail servers.
+
+Documentation: [WorkMail Reference](https://aws.amazon.com/workmail/)
+___
