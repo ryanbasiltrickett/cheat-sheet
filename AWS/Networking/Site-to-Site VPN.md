@@ -1,0 +1,4 @@
+AWS Site-to-Site VPN enables you to securely connect your on-premises network or branch office to your Amazon Virtual Private Cloud ([[VPC]]) over an encrypted IPsec VPN tunnel. This fully managed service provides a reliable, low-latency, and secure connection between your infrastructure and AWS, supporting both static and dynamic routing (via BGP). It allows hybrid cloud architectures by extending your data center or network into the AWS cloud without requiring dedicated physical connections. Site-to-Site VPN integrates with Virtual Private Gateway or Transit Gateway for scalable and flexible network connectivity.
+
+Documentation: [Managed VPN Reference](https://aws.amazon.com/vpn/)
+___

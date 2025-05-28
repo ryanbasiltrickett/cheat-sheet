@@ -19,3 +19,8 @@ ___
 | **Retain**         | Low         | None                    |
 
 ___
+### Diagrams
+#### Migration Pathways
+![[Migration Pathways.png]]
+
+___

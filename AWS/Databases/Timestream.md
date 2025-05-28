@@ -2,3 +2,9 @@ Amazon Timestream is a managed time series database service optimized for storin
 
 Documentation: [Timestream Reference](https://aws.amazon.com/timestream/)
 ___
+### Overview
+#### Storage Tiers
+- Magnetic
+- Memory
+
+___

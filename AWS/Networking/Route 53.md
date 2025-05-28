@@ -13,5 +13,12 @@ ___
 - Mulitivalue Answer Routing
 #### Traffic Flow
 Visualize and control the routing of an application's traffic. It provides a simple, visual editor to create routing policies based on different criteria such as geographic location, latency, or health checks. With Traffic Flow, users can easily configure complex routing policies to optimize performance, improve availability, and implement failover strategies for their applications. It's a powerful tool for managing traffic across distributed environments and ensuring seamless user experience.
+#### Resolver
+Amazon Route 53 Resolver is a scalable and highly available DNS service that helps manage DNS resolution for resources within a VPC (Virtual Private Cloud). It enables VPCs to resolve domain names to IP addresses, both for AWS-hosted and external domains. With Route 53 Resolver, you can configure inbound and outbound endpoints to forward DNS queries between your VPC and on-premises networks, supporting hybrid cloud architectures and centralized DNS management.
+
+___
+### Diagrams
+#### Route 53 Resolver Overview
+![[Route 53 Resolver Overview.png]]
 
 ___

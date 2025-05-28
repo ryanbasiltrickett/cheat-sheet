@@ -7,5 +7,6 @@ ___
 - Ingest IoT Messages
 - Publish Messages to IoT Devices
 - Enable Connection to and from AWS Services
+- Rules based Message Routing
 
 ___

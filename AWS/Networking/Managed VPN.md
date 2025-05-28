@@ -1,4 +1,0 @@
-AWS Managed VPN is a fully managed service that allows you to securely connect your on-premises network or client devices to your AWS environment using encrypted VPN tunnels. It supports both Site-to-Site VPN, which connects entire networks, and Client VPN, which allows individual users to access AWS resources remotely. The service handles the setup, scaling, and maintenance of the VPN infrastructure, providing high availability, automated failover, and integration with AWS services like VPC, IAM, and CloudWatch for monitoring.
-
-Documentation: [Managed VPN Reference](https://aws.amazon.com/vpn/)
-___
